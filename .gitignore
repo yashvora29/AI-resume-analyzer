@@ -1,0 +1,20 @@
+# JetBrains IDE settings
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Node / Vite
+node_modules/
+dist/
+coverage/
+.pytest_cache/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
